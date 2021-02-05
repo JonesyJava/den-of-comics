@@ -32,3 +32,7 @@
 .button-back{
     box-shadow: 3px 3px 3px black;
 }
+
+.font-title{
+    font-family: ui-monospace;
+}
